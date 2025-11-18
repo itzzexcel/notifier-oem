@@ -61,7 +61,6 @@ A small C# Discord bot that watches Roblox WindowsPlayer LIVE updates and posts 
   - `/refetch` – checks for changes manually without depending on the timer.
 
 ## Notes
-- Keep your token private; do not commit real secrets.
 - If your machine does not have `warp-cli`, run without `--warp`.
 - Update IDs to match your server to avoid missing channel/guild errors.
 
